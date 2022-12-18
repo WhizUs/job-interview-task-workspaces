@@ -12,7 +12,7 @@ In this task we will look into the new trends of developing in the cloud.
 
 ## Additional task
 
-* Help Tom with the workspaces.
+* Help Tom and John with the idea of predefined workspaces.
 
 ## Notes
 
