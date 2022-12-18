@@ -8,9 +8,10 @@ terraform {
     }
   }
 
+  # You can just comment it out
   backend "s3" {
-    bucket    = "job-interviews-2"
-    key       = "terraform.tfstate"
+    bucket    = "job-interviews"
+    key       = "workspaces.tfstate"
     region    = "at-vie-1"
     endpoint  = "https://sos-at-vie-1.exo.io"
 
